@@ -1,1 +1,2 @@
-# web
+# web project 
+about my portfolio
